@@ -1,4 +1,4 @@
-## 📌 Project 2: HR Analytics – Employee Promotion Prediction
+## 📌 HR Analytics – Employee Promotion Prediction
 **Goal:**  
 Build a machine learning model to **predict employee promotions** using HR analytics data (48,000+ rows).  
 
